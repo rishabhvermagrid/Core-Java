@@ -1,4 +1,4 @@
-package StringAndImmutableClass;/*
+package CoreJava;/*
 Important Case: Mutable Fields (Collections / Objects)
 If your class contains mutable objects like:
 List
